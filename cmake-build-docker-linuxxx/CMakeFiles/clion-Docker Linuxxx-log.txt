@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /tmp/diy-page-cache-alinaarmut -B /tmp/diy-page-cache-alinaarmut/cmake-build-docker-linuxxx
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/diy-page-cache-alinaarmut/cmake-build-docker-linuxxx

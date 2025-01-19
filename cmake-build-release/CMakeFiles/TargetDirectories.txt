@@ -1,0 +1,5 @@
+/Users/alinaarmut/CLionProjects/diy-page-cache-alinaarmut/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/alinaarmut/CLionProjects/diy-page-cache-alinaarmut/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/Users/alinaarmut/CLionProjects/diy-page-cache-alinaarmut/cmake-build-release/app/CMakeFiles/app.dir
+/Users/alinaarmut/CLionProjects/diy-page-cache-alinaarmut/cmake-build-release/app/CMakeFiles/edit_cache.dir
+/Users/alinaarmut/CLionProjects/diy-page-cache-alinaarmut/cmake-build-release/app/CMakeFiles/rebuild_cache.dir
